@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a18f621c-9235-485e-b449-19bee078ae48/resourceGroups/FlaskResource/providers/Microsoft.Web/sites/RxPredictor",
+    "appService.deploySubpath": "."
+}
